@@ -2,10 +2,9 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to SukhrobBank cards related QA APIs "
   contactDetails:
-    name: "Cherryl Pankaj - QA Lead"
-    email: "cherryl@eazybank.com"
+    name: "Alish Chicharitto - QA Lead"
+    email: "alishch@sukhrobbank.com"
   onCallSupport:
-    - (310) 875-4367
-    - (201) 236-1267
+    +998918899191
