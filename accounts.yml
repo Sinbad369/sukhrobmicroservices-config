@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to SukhrobBank accounts related docker APIs "
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    email: "john@sukhrobbank.com"
   onCallSupport:
     +998901900019
